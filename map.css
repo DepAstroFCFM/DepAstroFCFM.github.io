@@ -1,0 +1,47 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+h3 {
+  font-family: "Lato";
+  font-size: 140%;
+  color: #e4a612;
+}
+
+p {
+  font-family: "Montserrat";
+  color: white;
+  margin: 0;
+}
+
+br {
+  display: block;
+  margin: 4px 0;
+}
+
+#map {
+  width: 100vw;
+  height: 100vh;
+  z-index: 0;
+}
+
+/*leyenda*/
+#textbox {
+  position: absolute;
+  bottom: 50px;
+  right: 50px;
+  /* background-color: black;
+  padding: 10px;
+  border: 1px solid black; */
+  background: linear-gradient(black, black) padding-box,
+    linear-gradient(to right, #ca541e, #eacf26) border-box;
+  border-radius: 20px;
+  border: 2px solid transparent;
+  padding: 15px;
+  padding-top: 0px;
+  opacity: 100%;
+  z-index: 1;
+}

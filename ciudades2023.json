@@ -1,0 +1,294 @@
+[
+    {
+        "id": 0,
+        "ciudad": "Aguascalientes, AGS.",
+        "porcentaje-cobertura": 67.98,
+        "duracion": "3h:08m:21s",
+        "inicio":  "09:29 hrs.",
+        "maximo": "10:59 hrs.",
+        "fin": "12:38 hrs."
+    },
+    {
+        "id": 1,
+        "ciudad": "Mexicali, B.C.",
+        "porcentaje-cobertura": 71.03,
+        "duracion": "2h:46m:14s",
+        "inicio":  "08:09 hrs.",
+        "maximo":  "09:28 hrs.",
+        "fin": "10:56 hrs."
+    },
+    {
+        "id": 2,
+        "ciudad": "La Paz, B.C.S",
+        "porcentaje-cobertura": 56.06,
+        "duracion": "2h:52m:54s",
+        "inicio":  "08:21 hrs.",
+        "maximo":  "09:43 hrs.",
+        "fin": "11:14 hrs."
+    },
+    {
+        "id": 3,
+        "ciudad": "Campeche, CAMP.",
+        "porcentaje-cobertura": 90.61,
+        "duracion": "3h:24m:01s",
+        "inicio":  "09:45 hrs.",
+        "inicio-a": "11:22 hrs.",
+        "maximo": "11:24 hrs.",
+        "fin-a": "11:27 hrs.",
+        "fin":  "13:09 hrs."
+    },
+    {
+        "id": 4,
+        "ciudad": "Tuxtla Gutiérrez, CHIS.",
+        "porcentaje-cobertura": 79.48,
+        "duracion": "3h:23m:05s",
+        "inicio":  "09:47 hrs.",
+        "maximo": "11:26 hrs.",
+        "fin":  "13:10 hrs."
+    },
+    {
+        "id": 5,
+        "ciudad": "Chihuahua, CHIH.",
+        "porcentaje-cobertura": 77.26,
+        "duracion": "3h:01m:00s",
+        "inicio":  "09:18 hrs.",
+        "maximo": "10:43 hrs.",
+        "fin": "12:19 hrs."
+    },
+    {
+        "id": 6,
+        "ciudad": "Ciudad de México, D.F.",
+        "porcentaje-cobertura": 69.78,
+        "duracion": "3h:13m:56s",
+        "inicio":  "09:36 hrs.",
+        "maximo": "11:09 hrs.",
+        "fin": "12:50 hrs."
+    },
+    {
+        "id": 7,
+        "ciudad": "Saltillo, COAH.",
+        "porcentaje-cobertura": 80.08,
+        "duracion": "3h:09m:34s",
+        "inicio":  "09:25 hrs.",
+        "maximo": "10:55 hrs.",
+        "fin": "12:35 hrs."
+    },
+    {
+        "id": 8,
+        "ciudad": "Colima, COL.",
+        "porcentaje-cobertura": 57.90,
+        "duracion": "3h:04m:52s",
+        "inicio":  "09:33 hrs.",
+        "maximo": "11:01 hrs.",
+        "fin": "12:38 hrs."
+    },
+    {
+        "id": 9,
+        "ciudad": "Durango, DGO.",
+        "porcentaje-cobertura": 67.94,
+        "duracion": "3h:04m:06s",
+        "inicio":  "09:24 hrs.",
+        "maximo": "10:52 hrs.",
+        "fin": "12:28 hrs."
+    },
+    {
+        "id": 10,
+        "ciudad": "Guanajuato, GTO.",
+        "porcentaje-cobertura": 68.33,
+        "duracion": "3h:10m:13s",
+        "inicio":  "09:32 hrs.",
+        "maximo": "11:02 hrs.",
+        "fin": "12:42 hrs."
+    },
+    {
+        "id": 11,
+        "ciudad": "Chilpancingo de los Bravo, GRO.",
+        "porcentaje-cobertura": 64.28,
+        "duracion": "3h:13m:02s",
+        "inicio":  "09:39 hrs.",
+        "maximo": "11:12 hrs.",
+        "fin": "12:52 hrs."
+    },
+    {
+        "id": 12,
+        "ciudad": "Pachuca de Soto, HGO.",
+        "porcentaje-cobertura": 72.45,
+        "duracion": "3h:14m:32s",
+        "inicio":  "09:35 hrs.",
+        "maximo": "11:08 hrs.",
+        "fin": "12:50 hrs."
+    },
+    {
+        "id": 13,
+        "ciudad": "Guadalajara, JAL.",
+        "porcentaje-cobertura": 62.37,
+        "duracion": "3h:06m:11s",
+        "inicio":  "09:31 hrs.",
+        "maximo": "10:59 hrs.",
+        "fin": "12:37 hrs."
+    },
+    {
+        "id": 14,
+        "ciudad": "Toluca de Lerdo, MÉX.",
+        "porcentaje-cobertura": 68.10,
+        "duracion": "3h:13m:00s",
+        "inicio":  "09:36 hrs.",
+        "maximo": "11:08 hrs.",
+        "fin": "12:49 hrs."
+    },
+    {
+        "id": 15,
+        "ciudad": "Morelia, MICH.",
+        "porcentaje-cobertura": 65.25,
+        "duracion": "3h:10m:14s",
+        "inicio":  "09:34 hrs.",
+        "maximo": "11:05 hrs.",
+        "fin": "12:44 hrs."
+    },
+    {
+        "id": 16,
+        "ciudad": "Cuernavaca, MOR.",
+        "porcentaje-cobertura": 68.36,
+        "duracion": "3h:13m:47s",
+        "inicio":  "09:37 hrs.",
+        "maximo": "11:10 hrs.",
+        "fin": "12:51 hrs."
+      },
+      {
+        "id": 17,
+        "ciudad": "Tepic, NAY.",
+        "porcentaje-cobertura": 60.85,
+        "duracion": "3h:03m:15s",
+        "inicio":  "08:28 hrs.",
+        "maximo":  "09:55 hrs.",
+        "fin": "11:31 hrs."
+      },
+      {
+        "id": 18,
+        "ciudad": "Monterrey, N.L.",
+        "porcentaje-cobertura": 82.34,
+        "duracion": "3h:10m:20s",
+        "inicio":  "09:25 hrs.",
+        "maximo": "10:56 hrs.",
+        "fin": "12:36 hrs."
+      },
+      {
+        "id": 19,
+        "ciudad": "Oaxaca de Juárez, OAX.",
+        "porcentaje-cobertura": 70.50,
+        "duracion": "3h:17m:56s",
+        "inicio":  "09:43 hrs.",
+        "maximo": "11:18 hrs.",
+        "fin":  "13:01 hrs."
+      },
+      {
+        "id": 20,
+        "ciudad": "Puebla de Zaragoza, PUE.",
+        "porcentaje-cobertura": 71.28,
+        "duracion": "3h:15m:31s",
+        "inicio":  "09:38 hrs.",
+        "maximo": "11:11 hrs.",
+        "fin": "12:56 hrs."
+      },
+      {
+        "id": 21,
+        "ciudad": "Querétaro, QRO.",
+        "porcentaje-cobertura": 69.42,
+        "duracion": "3h:11m:43s",
+        "inicio":  "09:33 hrs.",
+        "maximo": "11:05 hrs.",
+        "fin": "12:45 hrs."
+      },
+      {
+        "id": 22,
+        "ciudad": "Chetumal, Q.R.",
+        "porcentaje-cobertura": 90.66,
+        "duracion": "3h:26m:13s",
+        "inicio": "10:51 hrs.",
+        "inicio-a": "12:29 hrs.",
+        "maximo": "12:31 hrs.",
+        "fin-a": "12:34 hrs.",
+        "fin":  "14:17 hrs."
+      },
+      {
+        "id": 23,
+        "ciudad": "San Luis Potosí, S.L.P.",
+        "porcentaje-cobertura": 71.87,
+        "duracion": "3h:10m:37s",
+        "inicio":  "09:30 hrs.",
+        "maximo": "11:01 hrs.",
+        "fin": "12:40 hrs."
+      },
+      {
+        "id": 24,
+        "ciudad": "Culiacán Rosales, SIN.",
+        "porcentaje-cobertura": 63.98,
+        "duracion": "2h:59m:08s",
+        "inicio":  "08:22 hrs.",
+        "maximo":  "09:46 hrs.",
+        "fin": "11:21 hrs."
+      },
+      {
+        "id": 25,
+        "ciudad": "Hermosillo, SON.",
+        "porcentaje-cobertura": 68.64,
+        "duracion": "2h:53m:13s",
+        "inicio":  "08:14 hrs.",
+        "maximo":  "09:36 hrs.",
+        "fin": "11:08 hrs."
+      },
+      {
+        "id": 26,
+        "ciudad": "Villahermosa, TAB.",
+        "porcentaje-cobertura": 82.83,
+        "duracion": "3h:22m:57s",
+        "inicio":  "09:45 hrs.",
+        "maximo": "11:23 hrs.",
+        "fin":  "13:08 hrs."
+      },
+      {
+        "id": 27,
+        "ciudad": "Ciudad Victoria, TAMS.",
+        "porcentaje-cobertura": 80.32,
+        "duracion": "3h:12m:53s",
+        "inicio":  "09:29 hrs.",
+        "maximo": "11:01 hrs.",
+        "fin": "12:42 hrs."
+      },
+      {
+        "id": 28,
+        "ciudad": "Tlaxcala de Xicohténcatl, TLAX.",
+        "porcentaje-cobertura": 71.79,
+        "duracion": "3h:15m:25s",
+        "inicio":  "09:37 hrs.",
+        "maximo": "11:11 hrs.",
+        "fin": "12:52 hrs."
+      },
+      {
+        "id": 29,
+        "ciudad": "Xalapa-Enríquez, VER.",
+        "porcentaje-cobertura": 75.73,
+        "duracion": "3h:17m:25s",
+        "inicio":  "09:38 hrs.",
+        "maximo": "11:13 hrs.",
+        "fin": "12:55 hrs."
+      },
+      {
+        "id": 30,
+        "ciudad": "Mérida, YUC.",
+        "porcentaje-cobertura": 90.34,
+        "duracion": "3h:23m:37s",
+        "inicio":  "09:45 hrs.",
+        "maximo": "11:24 hrs.",
+        "fin":  "13:08 hrs."
+      },
+      {
+        "id": 31,
+        "ciudad": "Zacatecas, ZAC.",
+        "porcentaje-cobertura": 69.56,
+        "duracion": "3h:07m:50s",
+        "inicio":  "09:28 hrs.",
+        "maximo": "10:57 hrs.",
+        "fin": "12:35 hrs."
+      }
+]
