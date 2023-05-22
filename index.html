@@ -220,7 +220,7 @@
                   var ciudad_elegida = ciudades.find(item => item.id == coordenadas.indexOf(coordenada))
                   console.log(ciudad_elegida["ciudad"])
 
-                  if(ciudad_elegida["ciudad"] == "Campeche, CAMP." || ciudad_elegida["ciudad"] == "Chetumal, Q.R."){
+                  if(ciudad_elegida["ciudad"] == "Campeche, CAMP." || ciudad_elegida["ciudad"] == "Chetumal, Q.R."){ //Ciudades que pasan por anularidad
                     //Actualización de leyenda
                     console.log("ANULARIDAD")
                     leyenda.style.display = "none";

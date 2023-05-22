@@ -288,5 +288,60 @@
         "inicio": "10:55 hrs.",
         "maximo": "12:15 hrs.",
         "fin":  "13:38 hrs."
+      },
+      {
+        "id": 32,
+        "ciudad": "Piedras Negras, COAH.",
+        "porcentaje-cobertura": 100.00,
+        "duracion": "2h:41m:11s",
+        "inicio": "12:10 hrs.",
+        "inicio-a": "13:27 hrs.",
+        "maximo": "13:29 hrs.",
+        "fin-a": "13:31 hrs.",
+        "fin":  "14:51 hrs."
+      },
+      {
+        "id": 33,
+        "ciudad": "Monclova, COAH.",
+        "porcentaje-cobertura": 100.00,
+        "duracion": "2h:41m:46s",
+        "inicio": "11:05 hrs.",
+        "inicio-a": "12:23 hrs.",
+        "maximo": "12:24 hrs.",
+        "fin-a": "12:26 hrs.",
+        "fin":  "13:47 hrs."
+      },
+      {
+        "id": 34,
+        "ciudad": "Cuatro Ciénegas, COAH.",
+        "porcentaje-cobertura": 100.00,
+        "duracion": "2h:41m:31s",
+        "inicio": "11:04 hrs.",
+        "inicio-a": "12:21 hrs.",
+        "maximo": "12:24 hrs.",
+        "fin-a": "12:26 hrs.",
+        "fin":  "13:46 hrs."
+      },
+      {
+        "id": 35,
+        "ciudad": "Torreón, COAH.",
+        "porcentaje-cobertura": 100.00,
+        "duracion": "2h:41m:33s",
+        "inicio": "10:59 hrs.",
+        "inicio-a": "12:16 hrs.",
+        "maximo": "12:19 hrs.",
+        "fin-a": "12:21 hrs.",
+        "fin":  "13:41 hrs."
+      },
+      {
+        "id": 36,
+        "ciudad": "Mazatlán, SIN.",
+        "porcentaje-cobertura": 100.00,
+        "duracion": "2h:40m:46s",
+        "inicio": "09:51 hrs.",
+        "inicio-a": "11:07 hrs.",
+        "maximo": "11:09 hrs.",
+        "fin-a": "11:11 hrs.",
+        "fin":  "12:32 hrs."
       }
 ]
